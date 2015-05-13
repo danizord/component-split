@@ -25,7 +25,7 @@ $ ./bin/split.sh -c Authentication
 ```
 
 Two components have special rules: `Zend\Permissions\Acl` and
-`Zend\Permissinos\Rbac`; these are invoked as simply `Acl` and `Rbac`,
+`Zend\Permissions\Rbac`; these are invoked as simply `Acl` and `Rbac`,
 respectively.
 
 The files will be split into a directory named after the component; e.g.,
